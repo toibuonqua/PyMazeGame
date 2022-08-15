@@ -1,2 +1,4 @@
 # PyMazeGame
-create game for fun &lt;3
+- Simple Maze Game
+- Programming language: Python
+- GUI: Tkinter
